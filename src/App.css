@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.text{
+  text-align: left;
+}
+.text2{
+  text-align:right;
+}
+.icon, .text{
+  color: rgb(32, 15, 128);
+}
+.increment-icon{
+  color: red;
+}
